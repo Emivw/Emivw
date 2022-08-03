@@ -14,13 +14,14 @@
   </div>
      - I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Africa.
   
-  - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+  - :telescope: I’m currently upskilling myself and contributing to frontend and backend for building web applications under an academic enviroment.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring different technologies and languages to broaden my horizons.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I work on my soft projects to gain more understanding and apply myself.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Emile-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emile-van-wyk-561097209/)
+  ### :hammer_and_wrench: Languages and Tools :
 
 <!--
 **Emivw/Emivw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
