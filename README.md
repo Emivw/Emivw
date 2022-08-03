@@ -5,10 +5,13 @@
   <a href="https://www.linkedin.com/in/emile-van-wyk-561097209/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     <div>
-     ### Hi there 👋
-      </div>
+      <h3> ### Hi there 👋</h3>
+     </div>
+  </div>
 </div>
-</div>
+  <div align="center">
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  </div>
 
 <!--
 **Emivw/Emivw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
