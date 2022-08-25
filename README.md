@@ -16,7 +16,7 @@
   
   - :telescope: I’m currently upskilling myself and contributing to frontend and backend for building web applications under an academic enviroment.
 
-- :seedling: Exploring different technologies and languages in light to broadening my horizons.
+- :seedling: Exploring different technologies and languages in light to broaden my horizons.
 
 - :zap: In my free time, I work on my soft projects to gain more understanding and apply myself.
 
